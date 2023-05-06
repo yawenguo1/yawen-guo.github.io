@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yawenguo.github.io/sitemap.xml
+Sitemap: https://yawen-guo.github.io/sitemap.xml
